@@ -2,8 +2,7 @@ package scott;
 
 public class ScottTest {
 	
-	private static void main() {
-		return ;
+	public static void main(String[] args) {
 		
 	}
 
